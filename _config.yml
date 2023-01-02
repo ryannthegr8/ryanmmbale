@@ -56,7 +56,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-V5Y4FZQW0R                 # fill in your Google Analytics ID
+  id: 'G-V5Y4FZQW0R'                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -83,7 +83,7 @@ theme_mode: dark   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /home/ryan/Desktop/devv/ryanmmbale/images/ryan_icon
 
 # boolean type, the global switch for ToC in posts.
 toc: true
